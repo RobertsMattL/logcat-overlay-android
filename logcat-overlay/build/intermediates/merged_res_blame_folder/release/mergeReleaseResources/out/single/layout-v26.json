@@ -1,6 +1,0 @@
-[
-    {
-        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout-v26/abc_screen_toolbar.xml",
-        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout-v26/abc_screen_toolbar.xml"
-    }
-]
