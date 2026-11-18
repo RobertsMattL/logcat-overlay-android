@@ -1,0 +1,2 @@
+rootProject.name = "logcat-overlay-android"
+include ':logcat-overlay'

@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_list_menu_item_layout.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_alert_dialog_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_screen_content_include.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_select_dialog_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_popup_menu_item_layout.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_screen_toolbar.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_list_menu_item_radio.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_dropdown_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_dropdown_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_activity_chooser_view.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_action_bar_up_container.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_information_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_information_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_action_menu_layout.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_action_mode_close_item_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_list_menu_item_icon.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-core-1.15.0-13:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/select_dialog_singlechoice_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_cascading_menu_item_layout.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_dropdown.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_dropdown.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_screen_simple.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_dialog_edittext.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_dialog_title_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_tooltip.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_widget_switch_compat.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_widget_seekbar_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_widget_seekbar_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_action_menu_item_layout.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_search_view.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_information.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_information.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_category_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_category_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_action_mode_bar.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_widget_checkbox.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/custom_dialog.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-core-1.15.0-13:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_list_fragment.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_list_fragment.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/ime_base_split_test_activity.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-core-1.15.0-13:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/select_dialog_item_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_recyclerview.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_recyclerview.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/notification_template_part_time.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-core-1.15.0-13:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_expanded_menu_layout.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/notification_template_part_chronometer.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-core-1.15.0-13:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_widget_switch.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_widget_switch.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_widget_seekbar.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/select_dialog_multichoice_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/preference_category.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/preference_category.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/expand_button.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/expand_button.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_action_bar_title_item.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/abc_alert_dialog_title_material.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-appcompat-1.1.0-28:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.devtechdesign.android.logcat.logcat-overlay-release-3:/layout/image_frame.xml",
+        "source": "com.devtechdesign.android.logcat.logcat-overlay-preference-1.2.1-29:/layout/image_frame.xml"
+    }
+]
